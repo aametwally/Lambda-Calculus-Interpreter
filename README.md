@@ -1,1 +1,1 @@
-### Lamda Interpreter
+### Lambda Interpreter
