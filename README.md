@@ -1,11 +1,11 @@
-#  Lambda Calculs Interpreter
+#  Lambda Calculus Interpreter
 
 # Resources:
 Zero Turnaround blogs:  
 * https://zeroturnaround.com/rebellabs/parsing-lambda-calculus-in-scala/  
 * https://zeroturnaround.com/rebellabs/evaluating-lambda-calculus-in-scala/  
 
-This project is intended to act as a simple lambda calculus interpreter. It takes a lambda expression as its input, then parse it and then use beta reduction grammar to get the most reduced form of the expression.
+This project is intended to act as a simple lambda calculus interpreter. It takes a lambda expression as its input, then parse it and then uses beta reduction grammar to get the most reduced form of the expression.
 
 
 
@@ -23,9 +23,6 @@ Clone the project to your local repository:
 ```
 git clone https://ametwally@bitbucket.org/ametwally/ahmed_metwally_hw4.git
 ```
-
-
-
 
 To make sure that you build the code from scratch, navigate to the project's main directory, remove any pre-built files:
 ```
