@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/project/}ahmed_metwally_hw4-build...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/project/}ahmed_metwally_hw4-build...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: default#ahmed_metwally_hw4-build;0.1-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -16,7 +16,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT [provided][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#ahmed_metwally_hw4-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.4 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@454b839b[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@643870ae[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.4 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.10.4] org.scala-lang#scala-library;2.10.4[0m
@@ -1766,19 +1766,19 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 5217ms :: artifacts dl 48ms[0m
-[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT compile produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT runtime produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT test produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT provided produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT optional produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT compile-internal produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT runtime-internal produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT test-internal produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT plugin produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT sources produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT docs produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT pom produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT scala-tool produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (5217ms resolve - 48ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 18444ms :: artifacts dl 109ms[0m
+[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT compile produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT runtime produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT test produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT provided produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT optional produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT compile-internal produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT runtime-internal produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT test-internal produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT plugin produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT sources produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT docs produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT pom produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ahmed_metwally_hw4-build;0.1-SNAPSHOT scala-tool produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/project/target/resolution-cache/reports/default-ahmed_metwally_hw4-build-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (18444ms resolve - 109ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

@@ -1,15 +1,164 @@
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mInitial source changes: [0m
-[0m[[0mdebug[0m] [0m	removed:Set()[0m
-[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	removed:Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/grammer.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaLexer.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Scope.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/PrettyPrinter.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Main.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaExpr.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Var.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Binder.scala)[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Main.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/PrettyPrinter.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Var.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Scope.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaExpr.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/grammer.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Binder.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaLexer.scala)[0m
 [0m[[0mdebug[0m] [0m	modified: Set()[0m
 [0m[[0mdebug[0m] [0mRemoved products: Set()[0m
 [0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/grammer.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Main.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/PrettyPrinter.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaLexer.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Var.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Scope.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Scope.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/PrettyPrinter.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Main.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaExpr.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaExpr.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Var.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/grammer.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Binder.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Binder.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaLexer.scala)[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m	product: Set()[0m
 [0m[[0mdebug[0m] [0m	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/grammer.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Main.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/PrettyPrinter.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaLexer.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Var.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Scope.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Scope.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/PrettyPrinter.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Main.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaExpr.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaExpr.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Var.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/grammer.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Binder.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Binder.scala, /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaLexer.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 9 sources: invalidated sources (18) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 9 Scala sources to /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.0[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.0[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 7f6f1750, interfacing (CompilerInterface) with Scala compiler version 2.11.0[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/hady/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.0.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/target/scala-2.11/classes:/home/hady/.ivy2/cache/org.scala-lang/scala-parser-combinators/jars/scala-parser-combinators-2.11.0-M4.jar:/home/hady/.ivy2/cache/com.novocode/junit-interface/jars/junit-interface-0.8.jar:/home/hady/.ivy2/cache/junit/junit/jars/junit-4.8.2.jar:/home/hady/.ivy2/cache/org.scala-tools.testing/test-interface/jars/test-interface-0.5.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 19.067625477 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Main.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Main.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Main.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Main.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Main.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, Main, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaExpr.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaExpr.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaExpr.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaExpr.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaExpr.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, body, name, wait, copy$default$2, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, A, $isInstanceOf, canEqual, productPrefix, notifyAll, isInstanceOf, LambdaExpr, <init>, V, L, ==, clone, fun, copy, toString, !=, getClass, copy$default$1, ne, eq, arg, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Main.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Main.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Main.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Main.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Main.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, Main, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	keyword, accept, parser2packrat.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaLexer.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaLexer.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaLexer.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaLexer.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaLexer.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	accept.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following member ref dependencies of /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaLexer.scala are invalidated:[0m
+[0m[[0mdebug[0m] [0m	/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Binder.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Binder.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Binder.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Binder.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Binder.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaExpr.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaExpr.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaExpr.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaExpr.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaExpr.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, body, name, wait, copy$default$2, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, A, $isInstanceOf, canEqual, productPrefix, notifyAll, isInstanceOf, LambdaExpr, <init>, V, L, ==, clone, fun, copy, toString, !=, getClass, copy$default$1, ne, eq, arg, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Main.scala: Set(asInstanceOf, isInstanceOf, <init>)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala: Set(A, LambdaExpr, <init>, V, L, ==, ne)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/PrettyPrinter.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/PrettyPrinter.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/PrettyPrinter.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/PrettyPrinter.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/PrettyPrinter.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/grammer.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/grammer.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/grammer.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/grammer.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/grammer.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Binder.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Binder.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Binder.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Binder.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Binder.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	keyword, accept, parser2packrat.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following member ref dependencies of /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/LambdaParser.scala are invalidated:[0m
+[0m[[0mdebug[0m] [0m	/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Main.scala[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Var.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Var.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Var.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Var.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Var.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Scope.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Scope.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Scope.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Scope.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Scope.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaLexer.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaLexer.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaLexer.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaLexer.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/LambdaLexer.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	accept.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Var.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Var.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Var.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Var.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/Var.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/PrettyPrinter.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/PrettyPrinter.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/PrettyPrinter.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/PrettyPrinter.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/PrettyPrinter.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Scope.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Scope.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Scope.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Scope.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test2/ahmed_metwally_hw4/src/main/scala/Scope.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/grammer.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/grammer.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/grammer.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/grammer.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/test1/ahmed_metwally_hw4/src/main/scala/grammer.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
