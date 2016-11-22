@@ -4,7 +4,7 @@
 		module="ahmed_metwally_hw4_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20161121151713"
+		publication="20161121185859"
 	>
 		<description>
 		ahmed_metwally_hw4
@@ -37,5 +37,6 @@
 		<dependency org="org.scala-lang" name="scala-parser-combinators" rev="2.11.0-M4" conf="compile->default(compile)"/>
 		<dependency org="com.novocode" name="junit-interface" rev="0.8" conf="compile->default(compile)"/>
 		<dependency org="junit" name="junit" rev="4.12" conf="test->default(compile)"/>
+		<dependency org="org.scalatest" name="scalatest_2.11" rev="2.2.5" conf="test->default(compile)"/>
 	</dependencies>
 </ivy-module>

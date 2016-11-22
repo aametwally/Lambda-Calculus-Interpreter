@@ -703,9 +703,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 1594ms :: artifacts dl 51ms
+[debug] :: resolution report :: resolve 992ms :: artifacts dl 41ms
 [debug] 	report for default#ahmed_metwally_hw4$sbt_2.11;1.0 default produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/ahmed_metwally_hw4/target/resolution-cache/reports/default-ahmed_metwally_hw4$sbt_2.11-default.xml
-[debug] 	resolve done (1594ms resolve - 51ms download)
+[debug] 	resolve done (992ms resolve - 41ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#ahmed_metwally_hw4$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1069,6 +1069,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 184ms :: artifacts dl 41ms
+[debug] :: resolution report :: resolve 237ms :: artifacts dl 26ms
 [debug] 	report for default#ahmed_metwally_hw4$sources_2.11;1.0 default produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/ahmed_metwally_hw4/target/resolution-cache/reports/default-ahmed_metwally_hw4$sources_2.11-default.xml
-[debug] 	resolve done (184ms resolve - 41ms download)
+[debug] 	resolve done (237ms resolve - 26ms download)
