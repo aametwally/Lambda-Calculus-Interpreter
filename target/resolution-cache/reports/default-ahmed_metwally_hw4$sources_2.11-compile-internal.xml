@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="compile-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20161121205415"/>
+		date="20161123201455"/>
 	<dependencies>
 		<module organisation="junit" name="junit">
 			<revision name="4.8.2" status="release" pubdate="20101005035128" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://junit.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="2">

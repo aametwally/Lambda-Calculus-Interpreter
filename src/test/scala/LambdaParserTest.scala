@@ -1,9 +1,9 @@
-import org.junit.Test
+import org.junit.{Assert, Test}
 
 /**
   * Created by AhmedMetwally on 11/21/16.
   */
-class LambdaParserTest extends org.scalatest.FunSuite {
+class LambdaParserTest extends Assert {
 
   @Test
   def testParser {
@@ -16,11 +16,9 @@ class LambdaParserTest extends org.scalatest.FunSuite {
     e match {
       case Success(parsedLambda, _) =>
         {
-//          println("Parsed Expression =  " + parsedLambda)
           assert(expected_output == parsedLambda.toString)
-//          println("class name = " + e.getClass.getName())
         }
     }
-      println("Passed Test Parser...")
+      println("Passed Parser Test ...")
   }
 }

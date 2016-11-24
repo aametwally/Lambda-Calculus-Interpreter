@@ -10,6 +10,7 @@
 [debug] == resolving dependencies default#ahmed_metwally_hw4$sbt_2.11;1.0->org.scala-sbt#sbt;0.13.8 [default->default(compile)]
 [info] Resolving org.scala-sbt#sbt;0.13.8 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-sbt#sbt;0.13.8 {default=[default(compile)]}
+[debug] no default cache defined: set to /home/hady/.ivy2/cache
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#sbt;0.13.8
 [debug] 	found org.scala-sbt#sbt;0.13.8 in sbt-chain
 [debug] == resolving dependencies org.scala-sbt#sbt;0.13.8->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
@@ -703,9 +704,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 992ms :: artifacts dl 41ms
-[debug] 	report for default#ahmed_metwally_hw4$sbt_2.11;1.0 default produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/ahmed_metwally_hw4/target/resolution-cache/reports/default-ahmed_metwally_hw4$sbt_2.11-default.xml
-[debug] 	resolve done (992ms resolve - 41ms download)
+[debug] :: resolution report :: resolve 1036ms :: artifacts dl 44ms
+[debug] 	report for default#ahmed_metwally_hw4$sbt_2.11;1.0 default produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/testWednesday/ahmed_metwally_hw4/target/resolution-cache/reports/default-ahmed_metwally_hw4$sbt_2.11-default.xml
+[debug] 	resolve done (1036ms resolve - 44ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#ahmed_metwally_hw4$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1069,6 +1070,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 237ms :: artifacts dl 26ms
-[debug] 	report for default#ahmed_metwally_hw4$sources_2.11;1.0 default produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/ahmed_metwally_hw4/target/resolution-cache/reports/default-ahmed_metwally_hw4$sources_2.11-default.xml
-[debug] 	resolve done (237ms resolve - 26ms download)
+[debug] :: resolution report :: resolve 222ms :: artifacts dl 45ms
+[debug] 	report for default#ahmed_metwally_hw4$sources_2.11;1.0 default produced in /home/hady/Dropbox/UIC/Courses/CS-474-OOP/HW4/testWednesday/ahmed_metwally_hw4/target/resolution-cache/reports/default-ahmed_metwally_hw4$sources_2.11-default.xml
+[debug] 	resolve done (222ms resolve - 45ms download)
