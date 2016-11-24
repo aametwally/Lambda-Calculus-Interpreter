@@ -45,7 +45,7 @@ sbt run
 
 Then the program should ask you to enter the lambda expression of your choice, then the output should be the parsed lambda expression.
 ```
-* Enter the lambda expression: λx.x t
+* Enter the lambda expression: (λx.x) t
 ```
 
 
