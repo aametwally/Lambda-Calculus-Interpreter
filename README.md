@@ -1,10 +1,5 @@
 #  Lambda Calculus Interpreter
 
-# Resources:
-Zero Turnaround blogs:  
-* https://zeroturnaround.com/rebellabs/parsing-lambda-calculus-in-scala/  
-* https://zeroturnaround.com/rebellabs/evaluating-lambda-calculus-in-scala/  
-
 This project is intended to act as a simple lambda calculus interpreter. It takes a lambda expression as its input, then parse it and then uses beta reduction grammar to get the most reduced form of the expression.
 
 
@@ -55,5 +50,11 @@ Then the program should ask you to enter the lambda expression of your choice, t
 
 
 ### Implementation Notes:
+* The current implementation parsers any lambda expression, builds the AST, then print it out.
+* I have tried a lot to build the beta evaluation methods but didn't get it to work. 
 
-* ...
+
+# Disclosure:
+My code has many ideas from the source code published on the ZeroTurnaround blogs:
+* https://zeroturnaround.com/rebellabs/parsing-lambda-calculus-in-scala/  
+* https://zeroturnaround.com/rebellabs/evaluating-lambda-calculus-in-scala/ 
