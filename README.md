@@ -16,7 +16,7 @@ This project is intended to act as a simple lambda calculus interpreter. It take
 
 Clone the project to your local repository:
 ```
-git clone https://github.com/aametwally/Lambda-Calculus-
+git clone https://github.com/aametwally/Lambda-Calculus-Interpreter.git
 ```
 
 To make sure that you build the code from scratch, navigate to the project's main directory, remove any pre-built files:
