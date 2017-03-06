@@ -16,7 +16,7 @@ This project is intended to act as a simple lambda calculus interpreter. It take
 
 Clone the project to your local repository:
 ```
-git clone https://ametwally@bitbucket.org/ametwally/ahmed_metwally_hw4.git
+git clone https://github.com/aametwally/Lambda-Calculus-Interpreter.git
 ```
 
 To make sure that you build the code from scratch, navigate to the project's main directory, remove any pre-built files:
@@ -51,10 +51,3 @@ Then the program should ask you to enter the lambda expression of your choice, t
 
 ### Implementation Notes:
 * The current implementation parsers any lambda expression, builds the AST, then print it out.
-* I have tried a lot to build the beta evaluation methods but didn't get it to work. 
-
-
-# Disclosure:
-My code has many ideas from the source code published on the ZeroTurnaround blogs:
-* https://zeroturnaround.com/rebellabs/parsing-lambda-calculus-in-scala/  
-* https://zeroturnaround.com/rebellabs/evaluating-lambda-calculus-in-scala/ 
